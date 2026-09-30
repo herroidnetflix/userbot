@@ -1,0 +1,5 @@
+
+AFK = {}
+NOTES = {}
+FILTERS = {}
+LOCKS = {}
